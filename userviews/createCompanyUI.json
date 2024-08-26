@@ -92,7 +92,7 @@
         "theme": {
             "className": "org.joget.tutorial.AmudalaTheme",
             "properties": {
-                "css": "body legend, body #form-canvas .form-section-title span, body #form-canvas .subform-section-title span {\n    background: #fff;\n    color: #044e6f;\n    margin: 0;\n    padding: 10px 20px;\n}\n\n/*body .form-section  {*/\n/*    border: 1px solid #ced4da !important;*/\n/*    margin-bottom: 40px;*/\n/*}*/\n\nbody .form-section-title {\n    border-bottom: 1px solid #ced4da;\n}\n\nbody legend, main #form-canvas .form-section-title span, main #form-canvas .subform-section-title span {\n    text-transform: none;\n}",
+                "css": "body legend, body #form-canvas .form-section-title span, body #form-canvas .subform-section-title span {\n    background: #fff;\n    color: #044e6f;\n    margin: 0;\n    padding: 10px 20px;\n}\n\n/*body .form-section  {*/\n/*    border: 1px solid #ced4da !important;*/\n/*    margin-bottom: 40px;*/\n/*}*/\n\nbody .form-section-title {\n    /*border-bottom: 1px solid #ced4da;*/\n}\n\nbody legend, main #form-canvas .form-section-title span, main #form-canvas .subform-section-title span {\n    /*text-transform: none;*/\n}",
                 "dx8colorScheme": "#e9e9e9;#FFFFFF;#AECAC7;#2C6562;#1976d2;#004ba0",
                 "buttonColor": "GREY",
                 "primaryColor": "DARKROYALBLUE",
