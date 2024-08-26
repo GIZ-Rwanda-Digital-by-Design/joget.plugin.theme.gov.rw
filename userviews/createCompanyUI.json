@@ -77,7 +77,7 @@
     "properties": {
         "logoutText": "Logout",
         "welcomeMessage": "#date.EEE, d MMM yyyy#",
-        "name": "Create Company UI",
+        "name": "MINIJUST",
         "description": "",
         "footerMessage": "Powered by Joget",
         "id": "createCompanyUI"
