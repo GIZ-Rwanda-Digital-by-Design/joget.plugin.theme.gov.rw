@@ -68,7 +68,7 @@
         "userviewDescription": "",
         "userviewId": "createCompanyUI",
         "hideThisUserviewInAppCenter": "",
-        "userview_thumbnail": "",
+        "userview_thumbnail": "#appResource.Coat_of_arms_of_Rwanda.png#",
         "userview_category": "",
         "theme": {
             "className": "org.joget.tutorial.AmudalaTheme",
