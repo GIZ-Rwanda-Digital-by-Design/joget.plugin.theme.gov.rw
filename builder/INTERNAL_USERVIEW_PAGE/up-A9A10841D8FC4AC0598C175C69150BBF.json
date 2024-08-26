@@ -1,11 +1,70 @@
 {
     "elements": [
         {
-            "className": "org.joget.apps.userview.lib.component.LabelComponent",
+            "className": "org.joget.apps.userview.lib.component.HeadingComponent",
+            "properties": {
+                "textContent": "Heading",
+                "id": "B207A5D5140B40616D5EABF989BDCD2C",
+                "tagName": "h1"
+            }
+        },
+        {
+            "className": "org.joget.apps.userview.lib.component.HeadingComponent",
+            "properties": {
+                "textContent": "Heading",
+                "id": "BF38E72EF7214D2F3C2177A9C89AAF9A",
+                "tagName": "h1"
+            }
+        },
+        {
+            "className": "org.joget.plugin.enterprise.HtmlCodeComponent",
+            "properties": {"id": "8414D94CDF624DBE24163956EAA4F763"}
+        },
+        {
+            "elements": [
+                {
+                    "elements": [{
+                        "className": "org.joget.apps.userview.lib.component.ParagraphComponent",
+                        "properties": {
+                            "attr-data-events-listening": [],
+                            "textContent": "<p>This section contains a directory&nbsp;of publications of the Official Gazette of the Republic of Rwanda&nbsp;under the management of the<span>&nbsp;<\/span><a href=\"https://www.minijust.gov.rw/quality-assurance-and-official-gazette\">Quality Assurance and Official Gazette Directorate General<\/a>. The latter ensures the compliance of legal instruments with the Constitution of the Republic of Rwanda, the quality of other documents to be published in the Official Gazette, prepares and publishes the Official Gazette.<a id=\"c10876\"><\/a><span><\/span><\/p>",
+                            "id": "E8074A8BD095440D10DD2F049418EC3A",
+                            "customId": ""
+                        }
+                    }],
+                    "className": "org.joget.apps.userview.lib.component.ColumnComponent",
+                    "properties": {
+                        "style-mobile-max-width": "100%",
+                        "style-tablet-flex": "0 0 100%",
+                        "style-flex": "0 0 60%",
+                        "style-mobile-flex": "0 0 100%",
+                        "style-max-width": "60%",
+                        "style-tablet-max-width": "100%"
+                    }
+                },
+                {
+                    "className": "org.joget.apps.userview.lib.component.ColumnComponent",
+                    "properties": {}
+                }
+            ],
+            "className": "org.joget.apps.userview.lib.component.ColumnsComponent",
             "properties": {
                 "attr-data-events-listening": [],
-                "textContent": "<h1>Companies<\/h1>",
-                "id": "8CD997A3CC7E4198C6970095532EE600",
+                "gutter": "5px",
+                "columns": [
+                    {
+                        "style-mobile-max-width": "100%",
+                        "style-max-width": "60%",
+                        "style-tablet-max-width": "100%"
+                    },
+                    {
+                        "style-mobile-max-width": "",
+                        "style-max-width": "",
+                        "style-tablet-max-width": ""
+                    }
+                ],
+                "css-mobile-stack-columns": "true",
+                "id": "61F0AE183F9E44DFF5DAE92F897BF0FB",
                 "customId": ""
             }
         },
