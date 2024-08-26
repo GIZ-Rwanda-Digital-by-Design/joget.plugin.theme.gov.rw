@@ -1,0 +1,16 @@
+{
+    "elements": [
+        {
+            "className": "org.joget.apps.userview.lib.component.LabelComponent",
+            "properties": {
+                "attr-data-events-listening": [],
+                "textContent": "<h2>Companies<\/h2>",
+                "id": "8CD997A3CC7E4198C6970095532EE600",
+                "customId": ""
+            }
+        },
+        {"className": "menu-component"}
+    ],
+    "className": "org.joget.apps.userview.model.UserviewPage",
+    "properties": {"id": "up-A9A10841D8FC4AC0598C175C69150BBF"}
+}
