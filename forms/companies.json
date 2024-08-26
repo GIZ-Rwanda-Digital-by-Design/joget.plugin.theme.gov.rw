@@ -15,12 +15,12 @@
                                 "mandatory": "true"
                             }
                         },
-                        "label": "Company name",
+                        "label": "Name",
                         "readonly": "",
                         "size": "",
                         "workflowVariable": "",
                         "style": "",
-                        "id": "company_name",
+                        "id": "name",
                         "placeholder": "",
                         "value": "",
                         "readonlyLabel": "",
