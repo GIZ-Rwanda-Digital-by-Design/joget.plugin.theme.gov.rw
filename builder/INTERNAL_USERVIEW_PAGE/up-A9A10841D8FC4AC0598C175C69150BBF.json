@@ -4,7 +4,7 @@
             "className": "org.joget.apps.userview.lib.component.LabelComponent",
             "properties": {
                 "attr-data-events-listening": [],
-                "textContent": "<h2>Companies<\/h2>",
+                "textContent": "<h1>Companies<\/h1>",
                 "id": "8CD997A3CC7E4198C6970095532EE600",
                 "customId": ""
             }
