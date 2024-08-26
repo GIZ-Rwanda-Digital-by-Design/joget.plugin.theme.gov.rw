@@ -17,7 +17,7 @@
                         "className": "org.joget.apps.userview.lib.component.ParagraphComponent",
                         "properties": {
                             "attr-data-events-listening": [],
-                            "style-font-weight": "500",
+                            "style-font-weight": "600",
                             "textContent": "<p>This section contains a directory&nbsp;of publications of the Official Gazette of the Republic of Rwanda&nbsp;under the management of the&nbsp;<a href=\"https://www.minijust.gov.rw/quality-assurance-and-official-gazette\">Quality Assurance and Official Gazette Directorate General<\/a>. The latter ensures the compliance of legal instruments with the Constitution of the Republic of Rwanda, the quality of other documents to be published in the Official Gazette, prepares and publishes the Official Gazette.<a id=\"c10876\"><\/a><\/p>",
                             "id": "E8074A8BD095440D10DD2F049418EC3A",
                             "customId": ""
