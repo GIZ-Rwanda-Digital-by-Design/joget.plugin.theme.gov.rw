@@ -71,7 +71,7 @@
         "userview_thumbnail": "",
         "userview_category": "",
         "theme": {
-            "className": "org.joget.plugin.enterprise.Dx8ColorAdminTheme",
+            "className": "org.joget.tutorial.AmudalaTheme",
             "properties": {
                 "dx8navBadge": "#00ACAC",
                 "css": "",
