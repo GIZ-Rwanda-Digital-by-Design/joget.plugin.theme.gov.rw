@@ -71,7 +71,7 @@
         "userview_thumbnail": "",
         "userview_category": "",
         "theme": {
-            "className": "org.joget.apps.userview.lib.AjaxUniversalTheme",
+            "className": "org.joget.tutorial.AmudalaTheme",
             "properties": {
                 "dx8navBadge": "#1677FF",
                 "css": "",
