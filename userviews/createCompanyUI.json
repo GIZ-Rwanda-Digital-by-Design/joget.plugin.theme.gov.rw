@@ -71,7 +71,7 @@
         "userview_thumbnail": "",
         "userview_category": "",
         "theme": {
-            "className": "org.joget.tutorial.AmudalaTheme",
+            "className": "",
             "properties": {
                 "dx8navBadge": "#00ACAC",
                 "css": "",
