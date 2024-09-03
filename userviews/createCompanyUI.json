@@ -88,7 +88,7 @@
                 "fav_icon": "",
                 "mobileViewDisabled": "",
                 "dx8navLinkIcon": "#FFFFFF",
-                "horizontal_menu": "horizontal_inline",
+                "horizontal_menu": "true",
                 "accentColor": "BLUE",
                 "profile": "",
                 "homeAttractBanner": "",
