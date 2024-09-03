@@ -68,7 +68,7 @@
         "userviewDescription": "",
         "userviewId": "createCompanyUI",
         "hideThisUserviewInAppCenter": "",
-        "userview_thumbnail": "",
+        "userview_thumbnail": "#appResource.Coat_of_arms_of_Rwanda.png#",
         "userview_category": "",
         "theme": {
             "className": "org.joget.gov.GovTheme",
@@ -85,7 +85,7 @@
                 "logo": "#appResource.Coat_of_arms_of_Rwanda.png#",
                 "enableResponsiveSwitch": "true",
                 "dx8headerFontColor": "#20252A",
-                "fav_icon": "",
+                "fav_icon": "#appResource.Coat_of_arms_of_Rwanda.png#",
                 "mobileViewDisabled": "",
                 "dx8navLinkIcon": "#FFFFFF",
                 "horizontal_menu": "true",
