@@ -74,7 +74,7 @@
             "className": "org.joget.gov.GovTheme",
             "properties": {
                 "dx8navBadge": "#00ACAC",
-                "css": "body .gov-custom-header .customized-menu .hiddenBtn:hover {\n    transition: all .3 !important;\n    box-shadow: none;\n}\n\nbody .gov-custom-header .customized-menu .hiddenBtn:hover {\n    background-color: transparent !important;\n    box-shadow: none;\n}\n\nbody .gov-custom-header .customized-menu .search__icon i {\n    color: #ddd;\n}\n\nbody .gov-custom-header .customized-menu .search__icon {\n    display: flex;\n    justify-content: center; \n    align-items: center;\n}\n\nbody .gov-custom-header .customized-menu .search__icon:hover {\n    background-color: #fff !important;\n    box-shadow: none;\n}\n\nbody .gov-custom-header .customized-menu .search__icon, \nbody .gov-custom-header .customized-menu .hiddenBtn {\n    background-color: transparent !important;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n   \nbody .waves-float {\n    -webkit-mask-image: none;\n    -webkit-box-shadow: none !important;;\n    box-shadow: none !important;\n\n} \n\n\n",
+                "css": "body .gov-custom-header .customized-menu .hiddenBtn:hover {\n    transition: all .3 !important;\n    box-shadow: none;\n}\n\nbody .gov-custom-header .customized-menu .hiddenBtn:hover {\n    background-color: transparent !important;\n    box-shadow: none;\n}\n\nbody .gov-custom-header .customized-menu .search__icon i {\n    color: #ddd;\n}\n\nbody .gov-custom-header .customized-menu .search__icon {\n    display: flex;\n    justify-content: center; \n    align-items: center;\n}\n\nbody .gov-custom-header .customized-menu .search__icon:hover {\n    background-color: #fff !important;\n    box-shadow: none;\n}\n\nbody .gov-custom-header .customized-menu .search__icon, \nbody .gov-custom-header .customized-menu .hiddenBtn {\n    background-color: transparent !important;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n   \nbody .waves-float {\n    -webkit-mask-image: none;\n    -webkit-box-shadow: none !important;;\n    box-shadow: none !important;\n} \n\nbody .gov-custom-header .customized-menu .search__wrapper .search__field {\n    transition: all .3s;\n}\n\n\n",
                 "primaryColor": "DARKROYALBLUE",
                 "loginBackground": "",
                 "disablePush": "",
@@ -109,7 +109,7 @@
                 "dx8colorScheme": "rgb(233, 233, 233);rgb(255, 255, 255);rgb(170, 190, 178);rgb(0, 101, 45);rgb(0, 121, 107);rgb(0, 76, 64)",
                 "dx8navBackground": "#2D353C",
                 "buttonColor": "GREY",
-                "js": "",
+                "js": "$(document).ready(function() {\n    $('.search__icon').removeClasse(' btn waves-button waves-float')\n    $('.search__icon').removeClasse('waves-effect btn waves-button waves-float')\n})",
                 "compactTheme": "",
                 "dx8navActiveIconColor": "#00ACAC",
                 "dx8navScrollbarThumb": "#999999",
