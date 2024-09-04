@@ -11,6 +11,44 @@
         {
             "filterable": true,
             "hidden": "false",
+            "renderHtml": "",
+            "format": {
+                "className": "org.joget.apps.datalist.lib.ImageFormatter",
+                "properties": {
+                    "imagefullsize": "",
+                    "width": "24px",
+                    "imageSrc": "",
+                    "defaultImage": "https://www.minijust.gov.rw/typo3conf/ext/file_list/Resources/Public/Icons/Files/pdf.png",
+                    "height": "24px"
+                }
+            },
+            "label": "ID",
+            "sortable": "false",
+            "datalist_type": "column",
+            "exclude_export": "",
+            "name": "id",
+            "width": "",
+            "headerAlignment": "",
+            "action": {
+                "className": "",
+                "properties": {}
+            },
+            "style": "",
+            "id": "column_4",
+            "alignment": ""
+        },
+        {
+            "filterable": true,
+            "hidden": "false",
+            "name": "name",
+            "id": "column_0",
+            "label": "Name",
+            "sortable": "false",
+            "datalist_type": "column"
+        },
+        {
+            "filterable": true,
+            "hidden": "false",
             "name": "address",
             "id": "column_1",
             "label": "Address",
@@ -22,14 +60,6 @@
             "name": "dateCreated",
             "id": "column_2",
             "label": "Date Created",
-            "sortable": "false"
-        },
-        {
-            "filterable": true,
-            "hidden": "false",
-            "name": "name",
-            "id": "column_0",
-            "label": "Name",
             "sortable": "false"
         },
         {
