@@ -74,7 +74,7 @@
             "className": "org.joget.gov.GovTheme",
             "properties": {
                 "dx8navBadge": "#00ACAC",
-                "css": "\nbody .gov-custom-header .customized-menu .hiddenBtn:hover {\n    transition: all .3 !important;\n}\n\nbody .gov-custom-header .customized-menu .search__icon:hover, body .gov-custom-header .customized-menu .hiddenBtn:hover {\n    background-color: transparent !important;\n}",
+                "css": "\nbody .gov-custom-header .customized-menu .hiddenBtn:hover {\n    transition: all .3 !important;\n}\n\nbody .gov-custom-header .customized-menu .search__icon:hover, body .gov-custom-header .customized-menu .hiddenBtn:hover {\n    background-color: transparent !important;\n}\n\nbody .gov-custom-header .customized-menu .search__icon i {\n    color: #ddd;\n}",
                 "primaryColor": "DARKROYALBLUE",
                 "loginBackground": "",
                 "disablePush": "",
