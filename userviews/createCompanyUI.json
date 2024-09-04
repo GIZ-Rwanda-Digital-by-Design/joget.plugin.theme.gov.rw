@@ -74,7 +74,7 @@
             "className": "org.joget.gov.GovTheme",
             "properties": {
                 "dx8navBadge": "#00ACAC",
-                "css": "",
+                "css": "body .gov-custom-header .customized-menu .search__icon, body .gov-custom-header .customized-menu .hiddenBtn:hover {\n    background-color: transparent !important;\n}",
                 "primaryColor": "DARKROYALBLUE",
                 "loginBackground": "",
                 "disablePush": "",
