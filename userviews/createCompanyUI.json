@@ -1,163 +1,100 @@
 {
     "className": "org.joget.apps.userview.model.Userview",
-    "categories": [
-        {
-            "className": "org.joget.apps.userview.model.UserviewCategory",
-            "menus": [
-                {
-                    "className": "org.joget.apps.userview.lib.HtmlPage",
-                    "properties": {
-                        "userviewCacheDuration": "20",
-                        "userviewCacheScope": "",
-                        "label": "Rich Text",
-                        "id": "BE4A74E136464D9D2E7B6D962D32870F"
-                    }
-                },
-                {
-                    "className": "org.joget.apps.userview.lib.DataListMenu",
-                    "properties": {
-                        "cacheAllLinks": "",
-                        "customHeader": "",
-                        "keyName": "",
-                        "customFooter": "",
-                        "label": "Companies",
-                        "enableOffline": "",
-                        "customId": "Companies",
-                        "buttonPosition": "bothLeft",
-                        "datalistId": "createCompanyLayout",
-                        "checkboxPosition": "left",
-                        "selectionType": "multiple",
-                        "userviewCacheDuration": "20",
-                        "cacheListAction": "",
-                        "userviewCacheScope": "",
-                        "rowCount": "",
-                        "id": "A9A10841D8FC4AC0598C175C69150BBF"
-                    }
-                },
-                {
-                    "className": "org.joget.apps.userview.lib.InboxMenu",
-                    "properties": {
-                        "appFilter": "all",
-                        "userviewCacheDuration": "20",
-                        "userviewCacheScope": "",
-                        "showPopup": "false",
-                        "label": "Inbox",
-                        "rowCount": "false",
-                        "id": "518FF1F129D4429C3F55B0A67A9E3926",
-                        "buttonPosition": "bothLeft"
-                    }
-                },
-                {
-                    "className": "org.joget.apps.userview.lib.FormMenu",
-                    "properties": {
-                        "loadDataWithKey": "",
-                        "redirectUrlOnCancel": "",
-                        "actionOnCancel": "",
-                        "redirectTargetOnCancel": "top",
-                        "customFooter": "",
-                        "paramName": "",
-                        "enableOffline": "",
-                        "afterSavedReloadTarget": "true",
-                        "customId": "create_gazette",
-                        "showInPopupDialog": "",
-                        "readonly": "",
-                        "cancelButtonLabel": "",
-                        "actionAfterSaved": "",
-                        "id": "21185A85337F410231269CB4E5CCDB61",
-                        "redirectUrlAfterComplete": "",
-                        "fieldPassover": "",
-                        "formId": "official_gazette",
-                        "customHeader": "",
-                        "fieldPassoverMethod": "append",
-                        "redirectTargetOnComplete": "",
-                        "keyName": "",
-                        "label": "Create Gazette",
-                        "userviewCacheDuration": "20",
-                        "messageShowAfterComplete": "",
-                        "submitButtonLabel": "",
-                        "userviewCacheScope": "",
-                        "readonlyLabel": "true"
-                    }
-                },
-                {
-                    "className": "org.joget.apps.userview.lib.HtmlPage",
-                    "properties": {
-                        "userviewCacheDuration": "",
-                        "userviewCacheScope": "",
-                        "id": "2ed39175-3581-4792-a24e-492c90fb8d38",
-                        "label": "Welcome",
-                        "enableOffline": "",
-                        "customId": "welcome",
-                        "content": "<div class=\"ui-welcome\">\n<h1>Apps and Workflow Made Simple<\/h1>\n<p>&nbsp;<\/p>\n<div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left;\"><img src=\"#request.contextPath#/images/icon_idea.png\" alt=\"Build apps\" width=\"120\" height=\"85\"><\/div>\n<div class=\"message\">\n<h3>Build apps, not just processes!<\/h3>\n<p>Create full-fledged apps with support for data records management.<\/p>\n<\/div>\n<p>&nbsp;<\/p>\n<div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left;\"><img src=\"#request.contextPath#/images/icon_rocket.png\" alt=\"Increased efficiency\" width=\"120\" height=\"85\"><\/div>\n<div class=\"message\">\n<h3>Increased Efficiency and Productivity<\/h3>\n<p>Faster and more consistent completion of manual processes, and with minimal errors.<\/p>\n<\/div>\n<p>&nbsp;<\/p>\n<div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left;\"><img src=\"#request.contextPath#/images/icon_cost.png\" alt=\"Lowered cost\" width=\"120\" height=\"85\"><\/div>\n<div class=\"message\">\n<h3>Lowered Cost<\/h3>\n<p>Employees can be guided through complex procedures, hence reducing the cost of training.<\/p>\n<\/div>\n<\/div>"
-                    }
-                },
-                {
-                    "className": "org.joget.apps.userview.lib.DataListMenu",
-                    "properties": {
-                        "cacheAllLinks": "",
-                        "customHeader": "",
-                        "keyName": "",
-                        "customFooter": "",
-                        "label": "Official Gazette",
-                        "enableOffline": "",
-                        "customId": "official_gazette",
-                        "buttonPosition": "bothLeft",
-                        "datalistId": "gazete_list",
-                        "checkboxPosition": "left",
-                        "selectionType": "multiple",
-                        "userviewCacheDuration": "20",
-                        "cacheListAction": "",
-                        "userviewCacheScope": "",
-                        "rowCount": "",
-                        "id": "47BA2993420944636FE1A0585C2C6C0B"
-                    }
+    "categories": [{
+        "className": "org.joget.apps.userview.model.UserviewCategory",
+        "menus": [
+            {
+                "className": "org.joget.apps.userview.lib.DataListMenu",
+                "properties": {
+                    "cacheAllLinks": "",
+                    "customHeader": "",
+                    "keyName": "",
+                    "customFooter": "",
+                    "label": "Companies",
+                    "enableOffline": "",
+                    "customId": "Companies",
+                    "buttonPosition": "bothLeft",
+                    "datalistId": "createCompanyLayout",
+                    "checkboxPosition": "left",
+                    "selectionType": "multiple",
+                    "userviewCacheDuration": "20",
+                    "cacheListAction": "",
+                    "userviewCacheScope": "",
+                    "rowCount": "",
+                    "id": "A9A10841D8FC4AC0598C175C69150BBF"
                 }
-            ],
-            "properties": {
-                "id": "category-EE74E4F4426241BD9BC3BC73B1D24AC7",
-                "label": "<i class='fa fa-home'><\/i> Home"
-            }
-        },
-        {
-            "className": "org.joget.apps.userview.model.UserviewCategory",
-            "menus": [{
+            },
+            {
+                "className": "org.joget.apps.userview.lib.FormMenu",
+                "properties": {
+                    "loadDataWithKey": "",
+                    "redirectUrlOnCancel": "",
+                    "actionOnCancel": "",
+                    "redirectTargetOnCancel": "top",
+                    "customFooter": "",
+                    "paramName": "",
+                    "enableOffline": "",
+                    "afterSavedReloadTarget": "true",
+                    "customId": "create_gazette",
+                    "showInPopupDialog": "",
+                    "readonly": "",
+                    "cancelButtonLabel": "",
+                    "actionAfterSaved": "",
+                    "id": "21185A85337F410231269CB4E5CCDB61",
+                    "redirectUrlAfterComplete": "",
+                    "fieldPassover": "",
+                    "formId": "official_gazette",
+                    "customHeader": "",
+                    "fieldPassoverMethod": "append",
+                    "redirectTargetOnComplete": "",
+                    "keyName": "",
+                    "label": "Create Gazette",
+                    "userviewCacheDuration": "20",
+                    "messageShowAfterComplete": "",
+                    "submitButtonLabel": "",
+                    "userviewCacheScope": "",
+                    "readonlyLabel": "true"
+                }
+            },
+            {
                 "className": "org.joget.apps.userview.lib.HtmlPage",
                 "properties": {
-                    "userviewCacheDuration": "20",
+                    "userviewCacheDuration": "",
                     "userviewCacheScope": "",
-                    "label": "Blog Cards",
-                    "id": "58D2203D728B49499B69C37CC7B9204B",
+                    "id": "2ed39175-3581-4792-a24e-492c90fb8d38",
+                    "label": "Welcome",
                     "enableOffline": "",
-                    "customId": "blog_cards",
-                    "content": "<p>ffhf<\/p>"
+                    "customId": "welcome",
+                    "content": "<div class=\"ui-welcome\">\n<h1>Apps and Workflow Made Simple<\/h1>\n<p>&nbsp;<\/p>\n<div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left;\"><img src=\"#request.contextPath#/images/icon_idea.png\" alt=\"Build apps\" width=\"120\" height=\"85\"><\/div>\n<div class=\"message\">\n<h3>Build apps, not just processes!<\/h3>\n<p>Create full-fledged apps with support for data records management.<\/p>\n<\/div>\n<p>&nbsp;<\/p>\n<div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left;\"><img src=\"#request.contextPath#/images/icon_rocket.png\" alt=\"Increased efficiency\" width=\"120\" height=\"85\"><\/div>\n<div class=\"message\">\n<h3>Increased Efficiency and Productivity<\/h3>\n<p>Faster and more consistent completion of manual processes, and with minimal errors.<\/p>\n<\/div>\n<p>&nbsp;<\/p>\n<div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left;\"><img src=\"#request.contextPath#/images/icon_cost.png\" alt=\"Lowered cost\" width=\"120\" height=\"85\"><\/div>\n<div class=\"message\">\n<h3>Lowered Cost<\/h3>\n<p>Employees can be guided through complex procedures, hence reducing the cost of training.<\/p>\n<\/div>\n<\/div>"
                 }
-            }],
-            "properties": {
-                "hide": "",
-                "permission": {
-                    "className": "",
-                    "properties": {}
-                },
-                "comment": "",
-                "label": "Cards",
-                "id": "category-38279B5712E14CF4C0A719988B8E33CB"
+            },
+            {
+                "className": "org.joget.apps.userview.lib.DataListMenu",
+                "properties": {
+                    "cacheAllLinks": "",
+                    "customHeader": "",
+                    "keyName": "",
+                    "customFooter": "",
+                    "label": "Official Gazette",
+                    "enableOffline": "",
+                    "customId": "official_gazette",
+                    "buttonPosition": "bothLeft",
+                    "datalistId": "gazete_list",
+                    "checkboxPosition": "left",
+                    "selectionType": "multiple",
+                    "userviewCacheDuration": "20",
+                    "cacheListAction": "",
+                    "userviewCacheScope": "",
+                    "rowCount": "",
+                    "id": "47BA2993420944636FE1A0585C2C6C0B"
+                }
             }
-        },
-        {
-            "className": "org.joget.apps.userview.model.UserviewCategory",
-            "menus": [],
-            "properties": {
-                "hide": "",
-                "permission": {
-                    "className": "",
-                    "properties": {}
-                },
-                "comment": "",
-                "label": "Icon cards",
-                "id": "category-A04FC49BB68C41096A9114F736A6E974"
-            }
+        ],
+        "properties": {
+            "id": "category-EE74E4F4426241BD9BC3BC73B1D24AC7",
+            "label": "<i class='fa fa-home'><\/i> Home"
         }
-    ],
+    }],
     "properties": {
         "logoutText": "Logout",
         "welcomeMessage": "#date.EEE, d MMM yyyy#",
