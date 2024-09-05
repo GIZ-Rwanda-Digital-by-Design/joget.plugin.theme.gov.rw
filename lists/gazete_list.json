@@ -8,14 +8,6 @@
         {
             "filterable": true,
             "hidden": "false",
-            "name": "id",
-            "id": "column_1",
-            "label": "ID",
-            "sortable": "false"
-        },
-        {
-            "filterable": true,
-            "hidden": "false",
             "name": "title",
             "id": "column_0",
             "label": "Title",
