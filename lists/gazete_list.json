@@ -4,7 +4,42 @@
         "properties": {}
     },
     "rowActions": [],
-    "columns": [],
+    "columns": [
+        {
+            "filterable": true,
+            "hidden": "false",
+            "name": "id",
+            "id": "column_1",
+            "label": "ID",
+            "sortable": "false"
+        },
+        {
+            "filterable": true,
+            "hidden": "false",
+            "name": "title",
+            "id": "column_0",
+            "label": "Title",
+            "sortable": "false",
+            "datalist_type": "column"
+        },
+        {
+            "filterable": true,
+            "hidden": "false",
+            "name": "info",
+            "id": "column_3",
+            "label": "Info",
+            "sortable": "false"
+        },
+        {
+            "filterable": true,
+            "hidden": "false",
+            "name": "dateModified",
+            "id": "column_2",
+            "label": "Date Modified",
+            "sortable": "false",
+            "datalist_type": "column"
+        }
+    ],
     "pageSize": "0",
     "orderBy": "",
     "description": "",
