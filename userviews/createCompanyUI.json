@@ -77,31 +77,6 @@
         },
         {
             "className": "org.joget.apps.userview.model.UserviewCategory",
-            "menus": [{
-                "className": "org.joget.apps.userview.lib.HtmlPage",
-                "properties": {
-                    "userviewCacheDuration": "20",
-                    "userviewCacheScope": "",
-                    "label": "Cards with numbers",
-                    "id": "2DE6214BCC0041F7626D2CEFB0F10836",
-                    "enableOffline": "",
-                    "customId": "cards_with_numbers",
-                    "content": "<p>Cards with numbers<\/p>"
-                }
-            }],
-            "properties": {
-                "hide": "",
-                "permission": {
-                    "className": "",
-                    "properties": {}
-                },
-                "comment": "",
-                "label": "Statistics cards",
-                "id": "category-5B93C03CCE2B4076CFD6353AB91D92CC"
-            }
-        },
-        {
-            "className": "org.joget.apps.userview.model.UserviewCategory",
             "menus": [
                 {
                     "className": "org.joget.apps.userview.lib.HtmlPage",
@@ -158,6 +133,31 @@
                 "comment": "",
                 "label": "Cards",
                 "id": "category-D7A7C2E7BE414FAD306D8F2A54817D8D"
+            }
+        },
+        {
+            "className": "org.joget.apps.userview.model.UserviewCategory",
+            "menus": [{
+                "className": "org.joget.apps.userview.lib.HtmlPage",
+                "properties": {
+                    "userviewCacheDuration": "20",
+                    "userviewCacheScope": "",
+                    "label": "Cards with numbers",
+                    "id": "2DE6214BCC0041F7626D2CEFB0F10836",
+                    "enableOffline": "",
+                    "customId": "cards_with_numbers",
+                    "content": "<p>Cards with numbers<\/p>"
+                }
+            }],
+            "properties": {
+                "hide": "",
+                "permission": {
+                    "className": "",
+                    "properties": {}
+                },
+                "comment": "",
+                "label": "Statistics cards",
+                "id": "category-5B93C03CCE2B4076CFD6353AB91D92CC"
             }
         }
     ],
