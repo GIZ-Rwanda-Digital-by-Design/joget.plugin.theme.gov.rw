@@ -142,14 +142,6 @@
                 "label": "Cards",
                 "id": "category-38279B5712E14CF4C0A719988B8E33CB"
             }
-        },
-        {
-            "className": "org.joget.apps.userview.model.UserviewCategory",
-            "menus": [],
-            "properties": {
-                "label": "New Category",
-                "id": "category-AE67258C790D454D3822008D97121593"
-            }
         }
     ],
     "properties": {
