@@ -49,25 +49,9 @@
         {
             "filterable": true,
             "hidden": "false",
-            "name": "address",
+            "name": "dateModified",
             "id": "column_1",
-            "label": "Address",
-            "sortable": "false"
-        },
-        {
-            "filterable": true,
-            "hidden": "false",
-            "name": "dateCreated",
-            "id": "column_2",
-            "label": "Date Created",
-            "sortable": "false"
-        },
-        {
-            "filterable": true,
-            "hidden": "false",
-            "name": "createdBy",
-            "id": "column_3",
-            "label": "Created By",
+            "label": "Date Modified",
             "sortable": "false"
         }
     ],
