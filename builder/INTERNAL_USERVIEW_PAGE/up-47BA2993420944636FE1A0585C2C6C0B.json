@@ -29,9 +29,9 @@
                     "properties": {
                         "style-mobile-max-width": "100%",
                         "style-tablet-flex": "0 0 80%",
-                        "style-flex": "0 0 70%",
+                        "style-flex": "0 0 60%",
                         "style-mobile-flex": "0 0 100%",
-                        "style-max-width": "70%",
+                        "style-max-width": "60%",
                         "style-tablet-max-width": "80%"
                     }
                 },
@@ -47,7 +47,7 @@
                 "columns": [
                     {
                         "style-mobile-max-width": "100%",
-                        "style-max-width": "70%",
+                        "style-max-width": "60%",
                         "style-tablet-max-width": "80%"
                     },
                     {
