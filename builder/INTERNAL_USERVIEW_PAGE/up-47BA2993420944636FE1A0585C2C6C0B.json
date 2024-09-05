@@ -26,7 +26,14 @@
                         }
                     }],
                     "className": "org.joget.apps.userview.lib.component.ColumnComponent",
-                    "properties": {}
+                    "properties": {
+                        "style-mobile-max-width": "100%",
+                        "style-tablet-flex": "0 0 80%",
+                        "style-flex": "0 0 60%",
+                        "style-mobile-flex": "0 0 100%",
+                        "style-max-width": "60%",
+                        "style-tablet-max-width": "80%"
+                    }
                 },
                 {
                     "className": "org.joget.apps.userview.lib.component.ColumnComponent",
@@ -35,13 +42,23 @@
             ],
             "className": "org.joget.apps.userview.lib.component.ColumnsComponent",
             "properties": {
+                "attr-data-events-listening": [],
                 "gutter": "5px",
                 "columns": [
-                    {"style-max-width": ""},
-                    {"style-max-width": ""}
+                    {
+                        "style-mobile-max-width": "100%",
+                        "style-max-width": "60%",
+                        "style-tablet-max-width": "80%"
+                    },
+                    {
+                        "style-mobile-max-width": "",
+                        "style-max-width": "",
+                        "style-tablet-max-width": ""
+                    }
                 ],
                 "css-mobile-stack-columns": "true",
-                "id": "D8F8589D208E4E5DA11B7E7F70B67D37"
+                "id": "D8F8589D208E4E5DA11B7E7F70B67D37",
+                "customId": ""
             }
         },
         {"className": "menu-component"}
