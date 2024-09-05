@@ -17,6 +17,7 @@
                         "className": "org.joget.plugin.enterprise.HtmlCodeComponent",
                         "properties": {
                             "attr-data-events-listening": [],
+                            "style-margin-bottom": "32px",
                             "textContent": "On 28th August 2028, Rwanda Justice Sector in partnership with UNDP and Legal Aid Forum inaugurated the newly renovated Alternative Dispute Resolution Center in Nyamirambo designed to offer accessible, efficient and community-focused mechanisms for resolving disputes.  The event was presided over by Hon. Justice Dr. Faustin Ntezilyayo, Chief Justice of the Republic of Rwanda and was attended by Government officials, development partners and key stakeholders.",
                             "id": "C00518DA3E1E463F7A2C09E3DA3CA999",
                             "customId": ""
