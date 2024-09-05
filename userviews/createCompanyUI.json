@@ -114,6 +114,7 @@
                 {
                     "className": "org.joget.apps.userview.lib.HtmlPage",
                     "properties": {
+                        "style-margin-top": "42px",
                         "userviewCacheDuration": "20",
                         "userviewCacheScope": "",
                         "label": "Small image card",
