@@ -42,6 +42,7 @@
             "properties": {
                 "attr-data-events-listening": [],
                 "gutter": "5px",
+                "style-margin-bottom": "32px",
                 "columns": [
                     {
                         "style-mobile-max-width": "100%",
