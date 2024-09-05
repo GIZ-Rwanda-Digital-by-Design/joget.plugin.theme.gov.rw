@@ -120,7 +120,18 @@
         },
         {
             "className": "org.joget.apps.userview.model.UserviewCategory",
-            "menus": [],
+            "menus": [{
+                "className": "org.joget.apps.userview.lib.HtmlPage",
+                "properties": {
+                    "userviewCacheDuration": "20",
+                    "userviewCacheScope": "",
+                    "label": "Blog Cards",
+                    "id": "58D2203D728B49499B69C37CC7B9204B",
+                    "enableOffline": "",
+                    "customId": "blog_cards",
+                    "content": "<p>ffhf<\/p>"
+                }
+            }],
             "properties": {
                 "hide": "",
                 "permission": {
