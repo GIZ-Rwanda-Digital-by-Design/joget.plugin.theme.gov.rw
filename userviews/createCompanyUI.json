@@ -68,6 +68,27 @@
                         "userviewCacheScope": "",
                         "readonlyLabel": "true"
                     }
+                },
+                {
+                    "className": "org.joget.apps.userview.lib.DataListMenu",
+                    "properties": {
+                        "cacheAllLinks": "",
+                        "customHeader": "",
+                        "keyName": "",
+                        "customFooter": "",
+                        "label": "Official Gazette",
+                        "enableOffline": "",
+                        "customId": "official_gazette",
+                        "buttonPosition": "bothLeft",
+                        "datalistId": "gazete_list",
+                        "checkboxPosition": "left",
+                        "selectionType": "multiple",
+                        "userviewCacheDuration": "20",
+                        "cacheListAction": "",
+                        "userviewCacheScope": "",
+                        "rowCount": "",
+                        "id": "47BA2993420944636FE1A0585C2C6C0B"
+                    }
                 }
             ],
             "properties": {
@@ -91,24 +112,15 @@
                     }
                 },
                 {
-                    "className": "org.joget.apps.userview.lib.DataListMenu",
+                    "className": "org.joget.apps.userview.lib.HtmlPage",
                     "properties": {
-                        "cacheAllLinks": "",
-                        "customHeader": "",
-                        "keyName": "",
-                        "customFooter": "",
-                        "label": "Official Gazette",
-                        "enableOffline": "",
-                        "customId": "official_gazette",
-                        "buttonPosition": "bothLeft",
-                        "datalistId": "gazete_list",
-                        "checkboxPosition": "left",
-                        "selectionType": "multiple",
                         "userviewCacheDuration": "20",
-                        "cacheListAction": "",
                         "userviewCacheScope": "",
-                        "rowCount": "",
-                        "id": "47BA2993420944636FE1A0585C2C6C0B"
+                        "label": "Small image card",
+                        "id": "049A70F1B31F42E951E04578045C0238",
+                        "enableOffline": "",
+                        "customId": "small_image_card",
+                        "content": "<p>Hello there<\/p>"
                     }
                 },
                 {
