@@ -140,7 +140,7 @@
             "className": "org.joget.gov.GovTheme",
             "properties": {
                 "dx8navBadge": "#00ACAC",
-                "css": "",
+                "css": "body .nav-item .nav-link {\n    font-family: 'avenir' !important;\n    font-weight: 800;\n    color: #000 !important;\n}",
                 "primaryColor": "DARKROYALBLUE",
                 "loginBackground": "",
                 "disablePush": "",
