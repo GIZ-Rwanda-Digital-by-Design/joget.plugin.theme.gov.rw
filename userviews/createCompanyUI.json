@@ -140,7 +140,7 @@
             "className": "org.joget.gov.GovTheme",
             "properties": {
                 "dx8navBadge": "#00ACAC",
-                "css": "body .nav-item .nav-link {\n    font-family: 'avenir' !important;\n    font-weight: 800;\n    color: #000 !important;\n}",
+                "css": "body .nav-item .nav-link {\n    font-family: 'avenir' !important;\n    font-weight: 800;\n    color: #000 !important;\n}\n\n@media (min-width: 768px) {\n    body.horizontal_menu #sidebar li ul.menu-container li.active a, body.horizontal_menu #sidebar li ul.menu-container li.active a, body.horizontal_menu #sidebar li ul.menu-container a:focus, body.horizontal_menu #sidebar li ul.menu-container a:hover {\n        color: var(--bs-secondary);\n        font-size: 12px;\n        font-family: 'avenir';\n        color: #000000c9;\n        font-weight: 600;\n        text-transform: capitalize;;\n    }\n}",
                 "primaryColor": "DARKROYALBLUE",
                 "loginBackground": "",
                 "disablePush": "",
