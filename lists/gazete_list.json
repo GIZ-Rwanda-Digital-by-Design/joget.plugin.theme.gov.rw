@@ -1,18 +1,24 @@
 {
-    "rowActions": [],
-    "columns": [],
-    "name": "Official Gazette",
-    "pageSize": "0",
-    "orderBy": "",
-    "description": "",
-    "id": "gazete_list",
-    "filters": [],
-    "binder": {
-        "name": "",
+    "template": {
         "className": "",
         "properties": {}
     },
-    "actions": [],
+    "rowActions": [],
+    "columns": [],
+    "pageSize": "0",
+    "orderBy": "",
+    "description": "",
+    "filters": [],
     "pageSizeSelectorOptions": "10,20,30,40,50,100",
+    "name": "Official Gazette",
+    "id": "gazete_list",
+    "binder": {
+        "className": "org.joget.apps.datalist.lib.FormRowDataListBinder",
+        "properties": {
+            "formDefId": "",
+            "extraCondition": ""
+        }
+    },
+    "actions": [],
     "order": ""
 }
