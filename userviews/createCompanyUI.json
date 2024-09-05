@@ -146,7 +146,7 @@
                     "id": "2DE6214BCC0041F7626D2CEFB0F10836",
                     "enableOffline": "",
                     "customId": "cards_with_numbers",
-                    "content": "<p>Cards with numbers<\/p>"
+                    "content": "<div class=\"col_categories\">\n<div class=\"col_category\">\n<p class=\"txt_subtitle txt_blue mabo16\">88.89%<\/p>\n<p class=\"txt_content txt_black\">The level of Rule of Law (RGS, 2023)<\/p>\n<\/div>\n<div class=\"col_category\">\n<p class=\"txt_subtitle txt_blue mabo16\">85.81%<\/p>\n<p class=\"txt_content txt_black\">The level of access to Justice (RGS, 2023)<\/p>\n<\/div>\n<div class=\"col_category\">\n<p class=\"txt_subtitle txt_blue mabo16\">92.32%<\/p>\n<p class=\"txt_content txt_black\">Respect for Human Rights and core international conventions (RGS, 2023)<\/p>\n<\/div>\n<div class=\"col_category\">\n<p class=\"txt_subtitle txt_blue mabo16\">75.20%<\/p>\n<p class=\"txt_content txt_black\">Level of citizen satisfaction with execution of judgements (RGS, 2023)<\/p>\n<\/div>\n<div class=\"col_category\">\n<p class=\"txt_subtitle txt_blue mabo16\">81.40%<\/p>\n<p class=\"txt_content txt_black\">Level of citizen satisfaction with access to legal aid (RGS, 2023)<\/p>\n<\/div>\n<div class=\"col_category\">\n<p class=\"txt_subtitle txt_blue mabo16\">86.90%<\/p>\n<p class=\"txt_content txt_black\">Level of citizen satisfaction with Abunzi performance (RGS, 2023)<\/p>\n<\/div>\n<\/div>"
                 }
             }],
             "properties": {
