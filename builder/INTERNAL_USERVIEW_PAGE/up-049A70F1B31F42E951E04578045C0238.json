@@ -14,7 +14,7 @@
             "className": "org.joget.apps.userview.lib.component.ParagraphComponent",
             "properties": {
                 "attr-data-events-listening": [],
-                "style-margin-bottom": "32px",
+                "style-margin-bottom": "62px",
                 "textContent": "<p><span>The general mission of the Ministry of Justice/Office of the Attorney General is to organize and to oversee the promotion of the rule of law, law enforcement and justice for all. To achieve its mission, the Ministry works with a number of partner institutions including the following:<\/span><\/p>",
                 "id": "63396628356D47E59E76662F8546B855",
                 "customId": ""
