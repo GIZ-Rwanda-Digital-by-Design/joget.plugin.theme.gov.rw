@@ -87,7 +87,7 @@
                         "id": "4D15FF08B4A84376D5188B033B49B38C",
                         "enableOffline": "",
                         "customId": "blogcards",
-                        "content": "<pre class=\"language-markup\"><code>&lt;div&gt;Hello There&lt;/div&gt;<\/code><\/pre>"
+                        "content": "<pre class=\"language-markup\"><code><\/code><\/pre>\n<div>Hello There<\/div>"
                     }
                 },
                 {
