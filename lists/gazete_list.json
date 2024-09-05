@@ -1,0 +1,18 @@
+{
+    "rowActions": [],
+    "columns": [],
+    "name": "Official Gazette",
+    "pageSize": "0",
+    "orderBy": "",
+    "description": "",
+    "id": "gazete_list",
+    "filters": [],
+    "binder": {
+        "name": "",
+        "className": "",
+        "properties": {}
+    },
+    "actions": [],
+    "pageSizeSelectorOptions": "10,20,30,40,50,100",
+    "order": ""
+}
