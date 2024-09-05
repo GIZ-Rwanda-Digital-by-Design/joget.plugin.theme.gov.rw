@@ -142,6 +142,20 @@
                 "label": "Cards",
                 "id": "category-38279B5712E14CF4C0A719988B8E33CB"
             }
+        },
+        {
+            "className": "org.joget.apps.userview.model.UserviewCategory",
+            "menus": [],
+            "properties": {
+                "hide": "",
+                "permission": {
+                    "className": "",
+                    "properties": {}
+                },
+                "comment": "",
+                "label": "Icon cards",
+                "id": "category-A04FC49BB68C41096A9114F736A6E974"
+            }
         }
     ],
     "properties": {
