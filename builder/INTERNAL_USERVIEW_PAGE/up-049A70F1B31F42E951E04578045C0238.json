@@ -1,0 +1,26 @@
+{
+    "elements": [
+        {
+            "className": "org.joget.apps.userview.lib.component.HeadingComponent",
+            "properties": {
+                "attr-data-events-listening": [],
+                "textContent": "Affiliated Agencies",
+                "id": "1E91DE128EF54FE6A6E12B0FCA86ACE1",
+                "tagName": "h1",
+                "customId": ""
+            }
+        },
+        {
+            "className": "org.joget.apps.userview.lib.component.ParagraphComponent",
+            "properties": {
+                "attr-data-events-listening": [],
+                "textContent": "<p><span>The general mission of the Ministry of Justice/Office of the Attorney General is to organize and to oversee the promotion of the rule of law, law enforcement and justice for all. To achieve its mission, the Ministry works with a number of partner institutions including the following:<\/span><\/p>",
+                "id": "63396628356D47E59E76662F8546B855",
+                "customId": ""
+            }
+        },
+        {"className": "menu-component"}
+    ],
+    "className": "org.joget.apps.userview.model.UserviewPage",
+    "properties": {"id": "up-049A70F1B31F42E951E04578045C0238"}
+}
