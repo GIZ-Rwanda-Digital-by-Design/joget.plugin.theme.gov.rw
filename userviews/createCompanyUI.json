@@ -138,7 +138,7 @@
         "userview_thumbnail": "#appResource.Coat_of_arms_of_Rwanda.png#",
         "userview_category": "",
         "theme": {
-            "className": "org.joget.apps.userview.lib.AjaxUniversalTheme",
+            "className": "org.joget.gov.GovTheme",
             "properties": {
                 "dx8navBadge": "#1677FF",
                 "css": "",
