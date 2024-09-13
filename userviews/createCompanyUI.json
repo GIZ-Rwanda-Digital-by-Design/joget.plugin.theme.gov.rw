@@ -154,7 +154,7 @@
                 "fav_icon": "#appResource.Coat_of_arms_of_Rwanda.png#",
                 "mobileViewDisabled": "",
                 "dx8navLinkIcon": "#FFFFFF",
-                "horizontal_menu": "horizontal_inline",
+                "horizontal_menu": "true",
                 "accentColor": "BLUE",
                 "profile": "",
                 "homeAttractBanner": "",
