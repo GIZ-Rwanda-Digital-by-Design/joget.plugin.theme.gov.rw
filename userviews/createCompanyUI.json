@@ -140,7 +140,7 @@
             "className": "org.joget.gov.GovTheme",
             "properties": {
                 "dx8navBadge": "#00ACAC",
-                "css": "body #header-name {\n    padding: 10px 0;\n    display: flex;\n    align-items: center;\n    background-color: green;\n    flex: 1;\n}",
+                "css": "body #header-name {\n    padding: 10px 0;\n    display: flex;\n    align-items: center;\n    background-color: green;\n    flex: 1;\n}\n\n@media (min-width: 768px) {\n    body.horizontal_menu #sidebar {\n        width: 100%;\n        position: sticky;\n        height: auto;\n        top: 0;\n        margin-bottom: 0px;\n        -webkit-transform: initial;\n        transform: initial;\n        padding: 5px 0px;\n        background-color: #fff;\n    }\n}",
                 "primaryColor": "DARKROYALBLUE",
                 "loginBackground": "",
                 "disablePush": "",
