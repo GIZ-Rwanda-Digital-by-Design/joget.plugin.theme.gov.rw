@@ -1,0 +1,23 @@
+<appDefinition>
+   <appId>themeViewShowcase</appId>
+   <id>themeViewShowcase</id>
+   <version></version>
+   <name>ThemeView Showcase</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList>
+      <appResource>
+         <id>Coat_of_arms_of_Rwanda.png</id>
+         <appId>themeViewShowcase</appId>
+         <appVersion>1</appVersion>
+         <filesize>135174</filesize>
+         <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;&quot;, &quot;properties&quot;: {}}}</permissionProperties>
+      </appResource>
+   </resourceList>
+</appDefinition>
