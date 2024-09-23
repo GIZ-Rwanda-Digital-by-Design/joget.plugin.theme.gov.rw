@@ -1,8 +1,17 @@
 {
     "template": {
-        "className": "",
-        "properties": {}
+        "className": "org.joget.apps.datalist.lib.AppIconTemplate",
+        "properties": {
+            "splitListByColumn": "",
+            "enableSuperApp": "",
+            "columns_desktop": "col-lg-3",
+            "columns_mobile": "col-12",
+            "columns_tablet": "col-md-6"
+        }
     },
+    "considerFilterWhenGetTotal": "",
+    "useSession": "",
+    "responsiveMode": "",
     "rowActions": [],
     "columns": [
         {
@@ -36,7 +45,9 @@
     "orderBy": "",
     "description": "",
     "filters": [],
+    "showDataWhenFilterSet": "",
     "pageSizeSelectorOptions": "10,20,30,40,50,100",
+    "hidePageSize": "",
     "name": "Official Gazette",
     "id": "gazete_list",
     "binder": {
