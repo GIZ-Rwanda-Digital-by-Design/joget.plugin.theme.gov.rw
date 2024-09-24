@@ -53,15 +53,6 @@
             "label": "Info",
             "sortable": "false",
             "datalist_type": "column"
-        },
-        {
-            "filterable": true,
-            "hidden": "false",
-            "name": "dateModified",
-            "id": "column_2",
-            "label": "Date Modified",
-            "sortable": "false",
-            "datalist_type": "column"
         }
     ],
     "pageSize": "0",
