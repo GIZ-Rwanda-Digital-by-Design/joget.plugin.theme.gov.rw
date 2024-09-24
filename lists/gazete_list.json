@@ -1,9 +1,11 @@
 {
     "template": {
-        "className": "org.joget.apps.datalist.lib.AppIconTemplate",
+        "className": "org.joget.apps.datalist.lib.SimpleCardTemplate",
         "properties": {
-            "splitListByColumn": "",
-            "enableSuperApp": "",
+            "image": "",
+            "inlineLabel": "",
+            "footerMsg": "",
+            "cardAction": "",
             "columns_desktop": "col-lg-3",
             "columns_mobile": "col-12",
             "columns_tablet": "col-md-6"
