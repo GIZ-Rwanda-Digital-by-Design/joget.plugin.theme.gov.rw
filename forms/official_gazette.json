@@ -43,6 +43,36 @@
                         "readonlyLabel": "",
                         "storeNumeric": ""
                     }
+                },
+                {
+                    "className": "org.joget.apps.form.lib.FileUpload",
+                    "properties": {
+                        "resizeMethod": "",
+                        "permissionType": "",
+                        "padding": "",
+                        "maxSizeMsg": "File size limit exceeded",
+                        "resizeWidth": "",
+                        "multiple": "",
+                        "validator": {
+                            "className": "org.joget.apps.form.lib.DefaultValidator",
+                            "properties": {
+                                "type": "",
+                                "message": "",
+                                "mandatory": "true"
+                            }
+                        },
+                        "maxSize": "",
+                        "label": "Image",
+                        "resizeQuality": "0.8",
+                        "removeFile": "",
+                        "readonly": "",
+                        "attachment": "true",
+                        "size": "",
+                        "fileTypeMsg": "Invalid file type",
+                        "id": "image",
+                        "resizeHeight": "",
+                        "fileType": ""
+                    }
                 }
             ],
             "className": "org.joget.apps.form.model.Column",
