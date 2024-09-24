@@ -19,11 +19,38 @@
         {
             "filterable": true,
             "hidden": "false",
-            "name": "title",
-            "id": "column_0",
+            "renderHtml": "",
+            "format": {
+                "className": "org.joget.sample.CardFormatter",
+                "properties": {
+                    "image": "",
+                    "formDefId": "official_gazette",
+                    "cardUrlTarget": "",
+                    "link": "google.com",
+                    "description": "Some descriptions",
+                    "title": "title"
+                }
+            },
             "label": "Title",
             "sortable": "false",
-            "datalist_type": "column"
+            "datalist_type": "column",
+            "exclude_export": "",
+            "name": "title",
+            "width": "",
+            "headerAlignment": "",
+            "action": {
+                "className": "org.joget.apps.datalist.lib.HyperlinkDataListAction",
+                "properties": {
+                    "hrefColumn": "",
+                    "hrefParam": "",
+                    "href": "google.com",
+                    "confirmation": "",
+                    "target": "_blank"
+                }
+            },
+            "style": "",
+            "id": "column_0",
+            "alignment": ""
         },
         {
             "filterable": true,
@@ -31,7 +58,8 @@
             "name": "info",
             "id": "column_3",
             "label": "Info",
-            "sortable": "false"
+            "sortable": "false",
+            "datalist_type": "column"
         },
         {
             "filterable": true,
