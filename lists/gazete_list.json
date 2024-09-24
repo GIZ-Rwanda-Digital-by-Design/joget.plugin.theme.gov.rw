@@ -21,15 +21,8 @@
             "hidden": "false",
             "renderHtml": "",
             "format": {
-                "className": "org.joget.sample.CardFormatter",
-                "properties": {
-                    "image": "",
-                    "formDefId": "official_gazette",
-                    "cardUrlTarget": "",
-                    "link": "google.com",
-                    "description": "Some descriptions",
-                    "title": "title"
-                }
+                "className": "",
+                "properties": {}
             },
             "label": "Title",
             "sortable": "false",
