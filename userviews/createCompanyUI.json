@@ -1,0 +1,215 @@
+{
+    "className": "org.joget.apps.userview.model.Userview",
+    "categories": [
+        {
+            "className": "org.joget.apps.userview.model.UserviewCategory",
+            "menus": [
+                {
+                    "className": "org.joget.apps.userview.lib.HtmlPage",
+                    "properties": {
+                        "userviewCacheDuration": "",
+                        "userviewCacheScope": "",
+                        "id": "2ed39175-3581-4792-a24e-492c90fb8d38",
+                        "label": "Welcome",
+                        "enableOffline": "",
+                        "customId": "welcome",
+                        "content": "<div class=\"ui-welcome\">\n<h1>Apps and Workflow Made Simple<\/h1>\n<p>&nbsp;<\/p>\n<div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left;\"><img src=\"#request.contextPath#/images/icon_idea.png\" alt=\"Build apps\" width=\"120\" height=\"85\"><\/div>\n<div class=\"message\">\n<h3>Build apps, not just processes!<\/h3>\n<p>Create full-fledged apps with support for data records management.<\/p>\n<\/div>\n<p>&nbsp;<\/p>\n<div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left;\"><img src=\"#request.contextPath#/images/icon_rocket.png\" alt=\"Increased efficiency\" width=\"120\" height=\"85\"><\/div>\n<div class=\"message\">\n<h3>Increased Efficiency and Productivity<\/h3>\n<p>Faster and more consistent completion of manual processes, and with minimal errors.<\/p>\n<\/div>\n<p>&nbsp;<\/p>\n<div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left;\"><img src=\"#request.contextPath#/images/icon_cost.png\" alt=\"Lowered cost\" width=\"120\" height=\"85\"><\/div>\n<div class=\"message\">\n<h3>Lowered Cost<\/h3>\n<p>Employees can be guided through complex procedures, hence reducing the cost of training.<\/p>\n<\/div>\n<\/div>"
+                    }
+                },
+                {
+                    "className": "org.joget.apps.userview.lib.DataListMenu",
+                    "properties": {
+                        "cacheAllLinks": "",
+                        "customHeader": "",
+                        "keyName": "",
+                        "customFooter": "",
+                        "label": "Official Gazette",
+                        "enableOffline": "",
+                        "customId": "official_gazette",
+                        "buttonPosition": "bothLeft",
+                        "datalistId": "gazete_list",
+                        "checkboxPosition": "left",
+                        "selectionType": "multiple",
+                        "userviewCacheDuration": "20",
+                        "cacheListAction": "",
+                        "userviewCacheScope": "",
+                        "rowCount": "",
+                        "id": "47BA2993420944636FE1A0585C2C6C0B"
+                    }
+                }
+            ],
+            "properties": {
+                "id": "category-EE74E4F4426241BD9BC3BC73B1D24AC7",
+                "label": "<i class='fa fa-home'><\/i> Home"
+            }
+        },
+        {
+            "className": "org.joget.apps.userview.model.UserviewCategory",
+            "menus": [
+                {
+                    "className": "org.joget.apps.userview.lib.HtmlPage",
+                    "properties": {
+                        "userviewCacheDuration": "20",
+                        "userviewCacheScope": "",
+                        "label": "Blog cards",
+                        "id": "4D15FF08B4A84376D5188B033B49B38C",
+                        "enableOffline": "",
+                        "customId": "blogcards",
+                        "content": "<style>\n      body .blog-image-full {\n        height: 200px;\n        overflow: hidden;\n        margin-bottom: 16px;\n      }\n\n      body .blog-image-full img {\n        height: 200px;\n        width: 100%;\n        object-fit: cover;\n      }\n\n      body .mabo16 {\n        margin-bottom: 16px;\n      }\n\n      body .txt_black {\n        color: #000000;\n      }\n\n      .txt_grey {\n        color: #8e8e8e;\n      }\n\n      body .fnt_black {\n        font-family: 'avenir';\n        font-weight: 700;\n      }\n      body .txt_content {\n        font-size: 14px;\n        word-wrap: break-word;\n        line-height: calc(14px * 1.5px);\n      }\n\n      body .btn_link {\n        background: transparent;\n        color: #000000;\n        border-radius: 2px;\n        font-family: 'avenir';\n        font-weight: 700;\n        padding: 8px 0px;\n        font-size: 14px;\n        -webkit-transition: 0.2s ease-out;\n        -moz-transition: 0.2s ease-out;\n        -o-transition: 0.2s ease-out;\n        transition: 0.2s ease-out;\n      }\n\n      body .btn_link {\n        transition: all 0.3s;\n      }\n\n      body .btn_link:hover {\n        color: #078ece !important;\n      }\n\n      .mabo32 {\n        margin-bottom: 42px !important;\n      }\n    <\/style>\n<div class=\"row\">\n<div class=\"col-12 col-lg-4 col-sm-6\">\n<div class=\"bg-white mabo32\">\n<div class=\"blog-image-full\"><img src=\"https://www.minijust.gov.rw/index.php?eID=dumpFile&amp;t=p&amp;p=253315&amp;token=8c354e38fd4d933be8335298ff527c76563f9abe\" alt=\"\"><\/div>\n<a title=\"Technology plays a big role in enhancing access to justice\" href=\"/news-detail/technology-plays-a-big-role-in-enhancing-access-to-justice\">\n<h3 class=\"txt_content txt_black fnt_black mabo16 text-uppercase\">Technology plays a big role in enhancing access to justice<\/h3>\n<\/a>\n<div class=\"txt_content txt_grey text-justify mabo16 lead\">\n<p>On 13<sup>th<\/sup> March 2024, the Minister of Justice and Attorney General, Dr. Emmanuel Ugirashebuja, attended the African Law and Tech Network Summit 2024,&hellip;<\/p>\n<\/div>\n<a class=\"btn_link txt_blue\" title=\"Technology plays a big role in enhancing access to justice\" href=\"/news-detail/technology-plays-a-big-role-in-enhancing-access-to-justice\"> Read more &rarr; <\/a><\/div>\n<\/div>\n<div class=\"col-12 col-lg-4 col-sm-6\">\n<div class=\"bg-white mabo32\">\n<div class=\"blog-image-full\"><img src=\"https://www.minijust.gov.rw/index.php?eID=dumpFile&amp;t=p&amp;p=252596&amp;token=c168ffd9a90d37d6e49009ff17a762343773cd5b\" alt=\"\"><\/div>\n<a title=\"Technology plays a big role in enhancing access to justice\" href=\"/news-detail/technology-plays-a-big-role-in-enhancing-access-to-justice\">\n<h3 class=\"txt_content txt_black fnt_black mabo16 text-uppercase\">Rwanda wins Commonwealth Access to Justice Innovation Awards<\/h3>\n<\/a>\n<div class=\"txt_content txt_grey text-justify mabo16 lead\">\n<p>The 2024 Commonwealth Law Ministers Meeting (#CLMM) is taking place in Zanzibar from 04 to 08 March under the theme: &ldquo;<strong>Technology and Innovation: How&hellip;<\/strong><\/p>\n<\/div>\n<a class=\"btn_link txt_blue\" title=\"Technology plays a big role in enhancing access to justice\" href=\"/news-detail/technology-plays-a-big-role-in-enhancing-access-to-justice\"> Read more &rarr; <\/a><\/div>\n<\/div>\n<div class=\"col-12 col-lg-4 col-sm-6\">\n<div class=\"bg-white mabo32\">\n<div class=\"blog-image-full\"><img src=\"https://www.minijust.gov.rw/index.php?eID=dumpFile&amp;t=p&amp;p=250928&amp;token=fe76ab0ff3b2634db7b55565591ad19f18e553b6\" alt=\"\"><\/div>\n<a title=\"Technology plays a big role in enhancing access to justice\" href=\"/news-detail/technology-plays-a-big-role-in-enhancing-access-to-justice\">\n<h3 class=\"txt_content txt_black fnt_black mabo16 text-uppercase\">It is an undeniable fact that business has a profound impact on human rights<\/h3>\n<\/a>\n<div class=\"txt_content txt_grey text-justify mabo16 lead\">\n<p>On Wednesday 21<sup>st<\/sup> February 2024, Representatives of Government institutions, the National Commission for Human Rights, Privates Sector, Civil Society&hellip;<\/p>\n<\/div>\n<a class=\"btn_link txt_blue\" title=\"Technology plays a big role in enhancing access to justice\" href=\"/news-detail/technology-plays-a-big-role-in-enhancing-access-to-justice\"> Read more &rarr; <\/a><\/div>\n<\/div>\n<div class=\"col-12 col-lg-4 col-sm-6\">\n<div class=\"bg-white mabo32\">\n<div class=\"blog-image-full\"><img src=\"https://www.minijust.gov.rw/index.php?eID=dumpFile&amp;t=p&amp;p=249945&amp;token=1ef1b0abdd45edfa13bdd319fc70ed490e3dc7a2\" alt=\"\"><\/div>\n<a title=\"Technology plays a big role in enhancing access to justice\" href=\"/news-detail/technology-plays-a-big-role-in-enhancing-access-to-justice\">\n<h3 class=\"txt_content txt_black fnt_black mabo16 text-uppercase\">Technology plays a big role in enhancing access to justice<\/h3>\n<\/a>\n<div class=\"txt_content txt_grey text-justify mabo16 lead\">\n<p>On 13<sup>th<\/sup> March 2024, the Minister of Justice and Attorney General, Dr. Emmanuel Ugirashebuja, attended the African Law and Tech Network Summit 2024,&hellip;<\/p>\n<\/div>\n<a class=\"btn_link txt_blue\" title=\"Technology plays a big role in enhancing access to justice\" href=\"/news-detail/technology-plays-a-big-role-in-enhancing-access-to-justice\"> Read more &rarr; <\/a><\/div>\n<\/div>\n<div class=\"col-12 col-lg-4 col-sm-6\">\n<div class=\"bg-white mabo32\">\n<div class=\"blog-image-full\"><img src=\"https://www.minijust.gov.rw/index.php?eID=dumpFile&amp;t=p&amp;p=248033&amp;token=bd69ebefda93ab4f9bfc22d3fae52f88cd895bdc\" alt=\"\"><\/div>\n<a title=\"Technology plays a big role in enhancing access to justice\" href=\"/news-detail/technology-plays-a-big-role-in-enhancing-access-to-justice\">\n<h3 class=\"txt_content txt_black fnt_black mabo16 text-uppercase\">Rwanda wins Commonwealth Access to Justice Innovation Awards<\/h3>\n<\/a>\n<div class=\"txt_content txt_grey text-justify mabo16 lead\">\n<p>The 2024 Commonwealth Law Ministers Meeting (#CLMM) is taking place in Zanzibar from 04 to 08 March under the theme: &ldquo;<strong>Technology and Innovation: How&hellip;<\/strong><\/p>\n<\/div>\n<a class=\"btn_link txt_blue\" title=\"Technology plays a big role in enhancing access to justice\" href=\"/news-detail/technology-plays-a-big-role-in-enhancing-access-to-justice\"> Read more &rarr; <\/a><\/div>\n<\/div>\n<div class=\"col-12 col-lg-4 col-sm-6\">\n<div class=\"bg-white mabo32\">\n<div class=\"blog-image-full\"><img src=\"https://www.minijust.gov.rw/index.php?eID=dumpFile&amp;t=p&amp;p=247936&amp;token=05b1860d99660cdc652f69447f074ab315ea81ff\" alt=\"\"><\/div>\n<a title=\"Technology plays a big role in enhancing access to justice\" href=\"/news-detail/technology-plays-a-big-role-in-enhancing-access-to-justice\">\n<h3 class=\"txt_content txt_black fnt_black mabo16 text-uppercase\">It is an undeniable fact that business has a profound impact on human rights<\/h3>\n<\/a>\n<div class=\"txt_content txt_grey text-justify mabo16 lead\">\n<p>On Wednesday 21<sup>st<\/sup> February 2024, Representatives of Government institutions, the National Commission for Human Rights, Privates Sector, Civil Society&hellip;<\/p>\n<\/div>\n<a class=\"btn_link txt_blue\" title=\"Technology plays a big role in enhancing access to justice\" href=\"/news-detail/technology-plays-a-big-role-in-enhancing-access-to-justice\"> Read more &rarr; <\/a><\/div>\n<\/div>\n<\/div>\n<style>\n      body .pad32 {\n        padding: 32px;\n      }\n\n      body .mabo32 {\n        margin-bottom: 32px;\n      }\n\n      body .txt_blue {\n        color: #078ece;\n      }\n\n      body .fa,\n      body .fab,\n      body .fal,\n      body .far,\n      body .fas {\n        -moz-osx-font-smoothing: grayscale;\n        -webkit-font-smoothing: antialiased;\n        display: inline-block;\n        font-style: normal;\n        font-variant: normal;\n        text-rendering: auto;\n        line-height: 1;\n      }\n\n      body .txt_title {\n        font-size: 28px;\n        word-wrap: break-word;\n        font-family: 'avenir';\n        line-height: calc(28px * 1.5px);\n      }\n\n      body .txt_content {\n        font-size: 14px;\n        word-wrap: break-word;\n        line-height: calc(14px * 1.5px);\n      }\n\n      body .fnt_medium {\n        font-family: 'avenir';\n        font-weight: 600;\n      }\n\n      body .btn_link {\n        background: transparent;\n        color: #000000;\n        border-radius: 2px;\n        font-family: 'avenir';\n        padding: 8px 0px;\n        font-size: 14px;\n        -webkit-transition: 0.2s ease-out;\n        -moz-transition: 0.2s ease-out;\n        -o-transition: 0.2s ease-out;\n        transition: 0.2s ease-out;\n        font-weight: 700;\n        margin-top: 3px;\n        display: block;\n      }\n\n      body .btn_link:hover {\n        color: #078ece;\n      }\n\n      body .card_white {\n        border: 0px;\n        background-color: #fff;\n        border-radius: 2px;\n        -webkit-transition: 0.2s ease-out;\n        -moz-transition: 0.2s ease-out;\n        -o-transition: 0.2s ease-out;\n        transition: 0.2s ease-out;\n        -webkit-box-shadow: 0px 3px 13px 0px rgba(0, 0, 0, 0.08);\n        -moz-box-shadow: 0px 3px 13px 0px rgba(0, 0, 0, 0.08);\n      }\n\n      body .txt_subtitle {\n        font-size: 22px;\n        word-wrap: break-word;\n        font-family: 'avenir';\n        line-height: calc(22px * 1.5px);\n        font-weight: 900;\n      }\n    <\/style>"
+                    }
+                },
+                {
+                    "className": "org.joget.apps.userview.lib.HtmlPage",
+                    "properties": {
+                        "style-margin-top": "42px",
+                        "userviewCacheDuration": "20",
+                        "userviewCacheScope": "",
+                        "label": "Small image card",
+                        "id": "049A70F1B31F42E951E04578045C0238",
+                        "enableOffline": "",
+                        "customId": "small_image_card",
+                        "content": "<style>\n      .card_affiliated {\n        border: 1px solid #e0e0e0;\n        padding: 32px;\n        height: 296px;\n        overflow-y: hidden;\n        background-color: #fff;\n        border-radius: 0px;\n        -webkit-transition: 0.2s ease-out;\n        -moz-transition: 0.2s ease-out;\n        -o-transition: 0.2s ease-out;\n        transition: 0.2s ease-out;\n      }\n\n      img {\n        vertical-align: middle;\n        border-style: none;\n      }\n\n      hr {\n        margin-top: 1rem;\n        margin-bottom: 1rem;\n        border: 0;\n        border-top: 1px solid #00000042;\n      }\n\n      hr {\n        box-sizing: content-box;\n        height: 0;\n        overflow: visible;\n      }\n\n      .txt_black {\n        color: #000000;\n      }\n\n      .txt_subtitle {\n        font-size: 22px;\n        word-wrap: break-word;\n        font-family: 'avenir';\n        font-weight: 800;\n        line-height: calc(22px * 1.5px);\n      }\n\n      p {\n        margin-top: 0;\n        margin-bottom: 1rem;\n      }\n\n      .mato16 {\n        margin-top: 16px;\n      }\n      .txt_grey {\n        color: #8e8e8e;\n      }\n\n      .txt_content {\n        font-size: 14px;\n        word-wrap: break-word;\n        line-height: calc(14px * 1.5px);\n      }\n\n      .btn_link {\n        background: transparent;\n        color: #000000;\n        border-radius: 2px;\n        font-family: 'avenir';\n        font-weight: 800;\n        padding: 8px 0px;\n        font-size: 14px;\n        -webkit-transition: 0.2s ease-out;\n        -moz-transition: 0.2s ease-out;\n        -o-transition: 0.2s ease-out;\n        transition: 0.2s ease-out;\n      }\n\n      .mabo32 {\n        margin-bottom: 32px;\n      }\n    <\/style>\n<div class=\"row\">\n<div class=\"col-12 col-lg-3 col-md-4 col-sm-6 mabo32\">\n<div class=\"col-lg-12 col-md-12 col-sm-12 col-12 card_affiliated\"><img src=\"https://www.minijust.gov.rw/index.php?eID=dumpFile&amp;t=f&amp;f=5487&amp;token=cb382d90ebbcc741ff78154e823972d4046de425\" class=\"mabo8\" height=\"60\" alt=\"partner\"><hr>\n<p class=\"txt_subtitle txt_black\">RIB<\/p>\n<p class=\"txt_content txt_grey mato16\">Rwanda Investigation Bureau<\/p>\n<a href=\"https://www.rib.gov.rw/\" title=\"RIB\" target=\"_blank\" class=\"btn_link\" rel=\"noopener\"> Visit &rarr; <\/a><\/div>\n<\/div>\n<div class=\"col-12 col-lg-3 col-md-4 col-sm-6 mabo32\">\n<div class=\"col-lg-12 col-md-12 col-sm-12 col-12 card_affiliated\"><img src=\"https://www.minijust.gov.rw/index.php?eID=dumpFile&amp;t=f&amp;f=5491&amp;token=ded79345b67a35e06ad16381750322722eb21037\" class=\"mabo8\" height=\"60\" alt=\"partner\"><hr>\n<p class=\"txt_subtitle txt_black\">RLRC<\/p>\n<p class=\"txt_content txt_grey mato16\">Rwanda Law Reform Commission<\/p>\n<a href=\"https://www.rlrc.gov.rw/\" title=\"RLRC\" target=\"_blank\" class=\"btn_link\" rel=\"noopener\"> Visit &rarr; <\/a><\/div>\n<\/div>\n<div class=\"col-12 col-lg-3 col-md-4 col-sm-6 mabo32\">\n<div class=\"col-lg-12 col-md-12 col-sm-12 col-12 card_affiliated\"><img src=\"https://www.minijust.gov.rw/index.php?eID=dumpFile&amp;t=f&amp;f=5485&amp;token=e958bfecdb5272faf9bc5ca953aa21924d54eb04\" class=\"mabo8\" height=\"60\" alt=\"partner\"><hr>\n<p class=\"txt_subtitle txt_black\">NPPA<\/p>\n<p class=\"txt_content txt_grey mato16\">National Public Prosecution Authority<\/p>\n<a href=\"https://nppa.gov.rw/\" title=\"NPPA\" target=\"_blank\" class=\"btn_link\" rel=\"noopener noreferrer\"> Visit &rarr; <\/a><\/div>\n<\/div>\n<div class=\"col-12 col-lg-3 col-md-4 col-sm-6 mabo32\">\n<div class=\"col-lg-12 col-md-12 col-sm-12 col-12 card_affiliated\"><img src=\"https://www.minijust.gov.rw/index.php?eID=dumpFile&amp;t=f&amp;f=5486&amp;token=087ae6bff7bc90004fc0f5e6d1503a190d92bb80\" class=\"mabo8\" height=\"60\" alt=\"partner\"><hr>\n<p class=\"txt_subtitle txt_black\">ILPD<\/p>\n<p class=\"txt_content txt_grey mato16\">Institute of Legal Practice and Development<\/p>\n<a href=\"https://ilpd.ac.rw/index.php?id=2\" title=\"ILPD\" target=\"_blank\" class=\"btn_link\" rel=\"noopener noreferrer\"> Visit &rarr; <\/a><\/div>\n<\/div>\n<div class=\"col-12 col-lg-3 col-md-4 col-sm-6 mabo32\">\n<div class=\"col-lg-12 col-md-12 col-sm-12 col-12 card_affiliated\"><img src=\"https://www.minijust.gov.rw/index.php?eID=dumpFile&amp;t=f&amp;f=73781&amp;token=ba20b434d33f409b8229f9e91e6611bcce5d2e56\" class=\"mabo8\" height=\"60\" alt=\"partner\"><hr>\n<p class=\"txt_subtitle txt_black\">RFI<\/p>\n<p class=\"txt_content txt_grey mato16\">Rwanda Forensic Institute<\/p>\n<a href=\"https://www.rfl.gov.rw/\" title=\"RFI\" target=\"_blank\" class=\"btn_link\" rel=\"noopener\"> Visit &rarr; <\/a><\/div>\n<\/div>\n<\/div>"
+                    }
+                },
+                {
+                    "className": "org.joget.apps.userview.lib.HtmlPage",
+                    "properties": {
+                        "userviewCacheDuration": "20",
+                        "userviewCacheScope": "",
+                        "label": "Icon Cards",
+                        "id": "03F9816A5E844EE5CD756BD39E2826C8",
+                        "enableOffline": "",
+                        "customId": "icon_cards",
+                        "content": "<style>\n      body .pad32 {\n        padding: 32px;\n      }\n\n      body .mabo32 {\n        margin-bottom: 32px;\n      }\n\n      body .txt_blue {\n        color: #078ece;\n      }\n\n      body .fa,\n      body .fab,\n      body .fal,\n      body .far,\n      body .fas {\n        -moz-osx-font-smoothing: grayscale;\n        -webkit-font-smoothing: antialiased;\n        display: inline-block;\n        font-style: normal;\n        font-variant: normal;\n        text-rendering: auto;\n        line-height: 1;\n      }\n\n      body .txt_title {\n        font-size: 28px;\n        word-wrap: break-word;\n        line-height: calc(28px * 1.5px);\n      }\n\n      body .txt_content {\n        font-size: 14px;\n        word-wrap: break-word;\n        line-height: calc(14px * 1.5px);\n        margin-top: 10px;\n      }\n\n      body .fnt_medium {\n        font-family: 'avenir';\n        font-weight: 600;\n      }\n\n      .txt_grey {\n        color: #8e8e8e;\n      }\n\n      body .btn_link {\n        background: transparent;\n        color: #000000;\n        border-radius: 2px;\n        font-family: 'avenir';\n        font-weight: 800;\n        padding: 8px 0px;\n        font-size: 14px;\n        -webkit-transition: 0.2s ease-out;\n        -moz-transition: 0.2s ease-out;\n        -o-transition: 0.2s ease-out;\n        transition: 0.2s ease-out;\n        font-weight: 700;\n        margin-top: 3px;\n        display: block;\n      }\n\n      body .btn_link:hover {\n        color: #078ece;\n      }\n\n      body .card_white {\n        border: 0px;\n        background-color: #fff;\n        border-radius: 2px;\n        -webkit-transition: 0.2s ease-out;\n        -moz-transition: 0.2s ease-out;\n        -o-transition: 0.2s ease-out;\n        transition: 0.2s ease-out;\n        -webkit-box-shadow: 0px 3px 13px 0px rgba(0, 0, 0, 0.08);\n        -moz-box-shadow: 0px 3px 13px 0px rgba(0, 0, 0, 0.08);\n      }\n\n      body .txt_subtitle {\n        font-size: 22px;\n        word-wrap: break-word;\n        font-family: 'avenir';\n        line-height: calc(22px * 1.5px);\n        font-weight: 900;\n      }\n    <\/style>\n<div class=\"row d-flex\">\n<div class=\"col-lg-4 col-md-4 col-sm-12 col-12 mabo32\">\n<div class=\"col-12 card_white text-left pad32\"><i class=\"fas fa-tag txt_title txt_blue mabo32\"><\/i>\n<div class=\"articletype-1 topnews\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Article\"><a title=\"Legal Services \" href=\"/legal-services\">\n<h3 class=\"txt_subtitle txt_black\">Legal Services<\/h3>\n<\/a><!-- teaser -->\n<div class=\"txt_content fnt_medium txt_grey text-justify\">The Legal Services includes: Government Legal Advisory Service Directorate General and the Civil Litigation Service Directorate General<\/div>\n<a class=\"btn_link\" title=\"Legal Services \" href=\"/legal-services\"> Read more &rarr; <\/a><\/div>\n<\/div>\n<\/div>\n<div class=\"col-lg-4 col-md-4 col-sm-12 col-12 mabo32\">\n<div class=\"col-12 card_white text-left pad32\"><i class=\"fas fa-tag txt_title txt_blue mabo32\"><\/i>\n<div class=\"articletype-1\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Article\"><a title=\"Access to Justice Services \" href=\"/access-to-justice-services\">\n<h3 class=\"txt_subtitle txt_black\">Access to Justice Services<\/h3>\n<\/a><!-- teaser -->\n<div class=\"txt_content fnt_medium txt_grey text-justify\">The department deals with the provision of the public legal aid, the coordination of Access to justice services as well as the management of abandoned&hellip;<\/div>\n<a class=\"btn_link\" title=\"Access to Justice Services \" href=\"/access-to-justice-services\"> Read more &rarr; <\/a><\/div>\n<\/div>\n<\/div>\n<div class=\"col-lg-4 col-md-4 col-sm-12 col-12 mabo32\">\n<div class=\"col-12 card_white text-left pad32\"><i class=\"fas fa-tag txt_title txt_blue mabo32\"><\/i>\n<div class=\"articletype-1\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Article\"><a title=\"International Justice and Judicial Cooperation\" href=\"/international-justice-and-judicial-cooperation\">\n<h3 class=\"txt_subtitle txt_black\">International Justice and Judicial Cooperation<\/h3>\n<\/a><!-- teaser -->\n<div class=\"txt_content fnt_medium txt_grey text-justify\">The department deals with the Human Rights Treaty Body Reporting as well as the International Justice and Judicial Cooperation<\/div>\n<a class=\"btn_link\" title=\"International Justice and Judicial Cooperation\" href=\"/international-justice-and-judicial-cooperation\"> Read more &rarr; <\/a><\/div>\n<\/div>\n<\/div>\n<div class=\"col-lg-4 col-md-4 col-sm-12 col-12 mabo32\">\n<div class=\"col-12 card_white text-left pad32\"><i class=\"fas fa-tag txt_title txt_blue mabo32\"><\/i>\n<div class=\"articletype-1\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Article\"><a title=\"Corporate Services \" href=\"/corporate-services\">\n<h3 class=\"txt_subtitle txt_black\">Corporate Services<\/h3>\n<\/a><!-- teaser -->\n<div class=\"txt_content fnt_medium txt_grey text-justify\">In close and direct collaboration with other cross-cutting services (ICT, Planning and Procurement), the Directorate General in charge of Corporate&hellip;<\/div>\n<a class=\"btn_link\" title=\"Corporate Services \" href=\"/corporate-services\"> Read more &rarr; <\/a><\/div>\n<\/div>\n<\/div>\n<div class=\"col-lg-4 col-md-4 col-sm-12 col-12 mabo32\">\n<div class=\"col-12 card_white text-left pad32\"><i class=\"fas fa-tag txt_title txt_blue mabo32\"><\/i>\n<div class=\"articletype-1\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Article\"><a title=\"Justice Sector Coordination\" href=\"/justice-sector-coordination\">\n<h3 class=\"txt_subtitle txt_black\">Justice Sector Coordination<\/h3>\n<\/a><!-- teaser -->\n<div class=\"txt_content fnt_medium txt_grey text-justify\">The Justice Sector Coordination Directorate General is established and placed under the administrative authority of the Ministry in charge of justice.&hellip;<\/div>\n<a class=\"btn_link\" title=\"Justice Sector Coordination\" href=\"/justice-sector-coordination\"> Read more &rarr; <\/a><\/div>\n<\/div>\n<\/div>\n<div class=\"col-lg-4 col-md-4 col-sm-12 col-12 mabo32\">\n<div class=\"col-12 card_white text-left pad32\"><i class=\"fas fa-tag txt_title txt_blue mabo32\"><\/i>\n<div class=\"articletype-1\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Article\"><a title=\"Digitalisation\" href=\"/digitalisation\">\n<h3 class=\"txt_subtitle txt_black\">Digitalisation<\/h3>\n<\/a><!-- teaser -->\n<div class=\"txt_content fnt_medium txt_grey text-justify\">The Directorate has the oversight coordination of ICT policy &amp; strategy development, planning, monitoring and evaluation of the Justice Sector ICT&hellip;<\/div>\n<a class=\"btn_link\" title=\"Digitalisation\" href=\"/digitalisation\"> Read more &rarr; <\/a><\/div>\n<\/div>\n<\/div>\n<div class=\"col-lg-4 col-md-4 col-sm-12 col-12 mabo32\">\n<div class=\"col-12 card_white text-left pad32\"><i class=\"fas fa-tag txt_title txt_blue mabo32\"><\/i>\n<div class=\"articletype-1\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Article\"><a title=\"Quality Assurance and Official Gazette\" href=\"/quality-assurance-and-official-gazette\">\n<h3 class=\"txt_subtitle txt_black\">Quality Assurance and Official Gazette<\/h3>\n<\/a><!-- teaser -->\n<div class=\"txt_content fnt_medium txt_grey text-justify\">The Directorate ensures the compliance of legal instruments with the Constitution of the Republic of Rwanda, the quality of other documents to be&hellip;<\/div>\n<a class=\"btn_link\" title=\"Quality Assurance and Official Gazette\" href=\"/quality-assurance-and-official-gazette\"> Read more &rarr; <\/a><\/div>\n<\/div>\n<\/div>\n<\/div>"
+                    }
+                }
+            ],
+            "properties": {
+                "hide": "",
+                "permission": {
+                    "className": "",
+                    "properties": {}
+                },
+                "comment": "",
+                "label": "Cards",
+                "id": "category-D7A7C2E7BE414FAD306D8F2A54817D8D"
+            }
+        },
+        {
+            "className": "org.joget.apps.userview.model.UserviewCategory",
+            "menus": [{
+                "className": "org.joget.apps.userview.lib.HtmlPage",
+                "properties": {
+                    "userviewCacheDuration": "20",
+                    "userviewCacheScope": "",
+                    "label": "Cards with numbers",
+                    "id": "2DE6214BCC0041F7626D2CEFB0F10836",
+                    "enableOffline": "",
+                    "customId": "cards_with_numbers",
+                    "content": "<style>\n      body .row {\n        display: flex;\n        flex-wrap: wrap;\n      }\n\n      body .col_category {\n        border: 0.5px solid #eee;\n        padding: 42px 32px;\n        background: #ffffff;\n        -webkit-transition: 0.2s ease-out;\n        -moz-transition: 0.2s ease-out;\n        -o-transition: 0.2s ease-out;\n        transition: 0.2s ease-out;\n        -ms-flex-preferred-size: 0;\n        flex-basis: 0;\n        -ms-flex-positive: 1;\n        flex-grow: 1;\n        max-width: 100%;\n      }\n\n      .mabo16 {\n        margin-bottom: 16px;\n      }\n\n      .txt_blue {\n        color: #078ece;\n      }\n\n      .txt_subtitle {\n        font-size: 22px;\n        word-wrap: break-word;\n        font-family: 'avenir';\n        font-weight: 800;\n        line-height: calc(22px * 1.5px);\n      }\n\n      .txt_content {\n        font-size: 14px;\n        word-wrap: break-word;\n        line-height: calc(14px * 1.5px);\n      }\n\n      .txt_black {\n        color: #000000;\n      }\n\n      .col_category:hover {\n        border: 0.5px solid #eee;\n        padding: 42px 32px;\n        -webkit-box-shadow: 0px 3px 13px 0px rgba(0, 0, 0, 0.08);\n        -moz-box-shadow: 0px 3px 13px 0px rgba(0, 0, 0, 0.08);\n        box-shadow: 0px 3px 13px 0px rgba(0, 0, 0, 0.08);\n        -webkit-transition: 0.2s ease-out;\n        -moz-transition: 0.2s ease-out;\n        -o-transition: 0.2s ease-out;\n        transition: 0.2s ease-out;\n      }\n\n      p {\n        margin-top: 0;\n        margin-bottom: 1rem;\n      }\n    <\/style>\n<div class=\"row\">\n<div class=\"col_category\">\n<p class=\"txt_subtitle txt_blue mabo16\">88.89%<\/p>\n<p class=\"txt_content txt_black\">The level of Rule of Law (RGS, 2023)<\/p>\n<\/div>\n<div class=\"col_category\">\n<p class=\"txt_subtitle txt_blue mabo16\">85.81%<\/p>\n<p class=\"txt_content txt_black\">The level of access to Justice (RGS, 2023)<\/p>\n<\/div>\n<div class=\"col_category\">\n<p class=\"txt_subtitle txt_blue mabo16\">92.32%<\/p>\n<p class=\"txt_content txt_black\">Respect for Human Rights and core international conventions (RGS, 2023)<\/p>\n<\/div>\n<div class=\"col_category\">\n<p class=\"txt_subtitle txt_blue mabo16\">75.20%<\/p>\n<p class=\"txt_content txt_black\">Level of citizen satisfaction with execution of judgements (RGS, 2023)<\/p>\n<\/div>\n<div class=\"col_category\">\n<p class=\"txt_subtitle txt_blue mabo16\">81.40%<\/p>\n<p class=\"txt_content txt_black\">Level of citizen satisfaction with access to legal aid (RGS, 2023)<\/p>\n<\/div>\n<div class=\"col_category\">\n<p class=\"txt_subtitle txt_blue mabo16\">86.90%<\/p>\n<p class=\"txt_content txt_black\">Level of citizen satisfaction with Abunzi performance (RGS, 2023)<\/p>\n<\/div>\n<\/div>"
+                }
+            }],
+            "properties": {
+                "hide": "",
+                "permission": {
+                    "className": "",
+                    "properties": {}
+                },
+                "comment": "",
+                "label": "Statistics cards",
+                "id": "category-5B93C03CCE2B4076CFD6353AB91D92CC"
+            }
+        }
+    ],
+    "properties": {
+        "logoutText": "Logout",
+        "welcomeMessage": "#date.EEE, d MMM yyyy#",
+        "name": "MINIJUST",
+        "description": "",
+        "footerMessage": "Powered by Joget",
+        "id": "createCompanyUI"
+    },
+    "setting": {"properties": {
+        "__": "",
+        "tempDisablePermissionChecking": "",
+        "userviewDescription": "",
+        "userviewId": "createCompanyUI",
+        "hideThisUserviewInAppCenter": "",
+        "userview_thumbnail": "#appResource.Coat_of_arms_of_Rwanda.png#",
+        "userview_category": "",
+        "theme": {
+            "className": "org.joget.gov.GovTheme",
+            "properties": {
+                "dx8navBadge": "#1677FF",
+                "css": "",
+                "primaryColor": "DARKROYALBLUE",
+                "loginBackground": "",
+                "disablePush": "",
+                "dx8navLinkColor": "rgba(0, 0, 0, 0.88)",
+                "removeAssignmentTitle": "",
+                "shortcutLinkLabel": "Shortcut",
+                "disableHelpGuide": "",
+                "logo": "",
+                "enableResponsiveSwitch": "true",
+                "dx8headerFontColor": "rgba(0, 0, 0, 0.88)",
+                "fav_icon": "",
+                "mobileViewDisabled": "",
+                "dx8navLinkIcon": "rgba(0, 0, 0, 0.88)",
+                "horizontal_menu": "",
+                "accentColor": "BLUE",
+                "profile": "",
+                "homeAttractBanner": "",
+                "dx8headingBgColor": "#FFFFFF",
+                "dx8linkColor": "#1677FF",
+                "homeUrl": "",
+                "dx8linkActiveColor": "#69B1FF",
+                "subheader": "",
+                "disablePwa": "",
+                "dx8footerColor": "rgba(0, 0, 0, 0.88)",
+                "loginPageBottom": "",
+                "dx8contentbackground": "#FFFFFF",
+                "dx8backgroundImage": "",
+                "themeScheme": "light",
+                "dx8navBadgeText": "#FFFFFF",
+                "dx8background": "#F0F2F5",
+                "dx8headerColor": "#FFFFFF",
+                "dx8colorScheme": "rgb(249, 249, 249);rgb(59, 67, 72);rgb(3, 169, 244);rgb(110, 206, 251);rgb(255, 255, 255);rgb(255, 255, 255)",
+                "dx8navBackground": "#FFFFFF",
+                "buttonColor": "GREY",
+                "js": "",
+                "compactTheme": "",
+                "dx8navActiveIconColor": "#1677FF",
+                "dx8navScrollbarThumb": "#C4C4C4",
+                "userMenu": [],
+                "urlsToCache": "",
+                "loginPageTop": "",
+                "userImage": "",
+                "shortcut": [],
+                "dx8buttonColor": "#FFFFFF",
+                "usingLocalFonts": "true",
+                "fontControl": "",
+                "buttonTextColor": "WHITE",
+                "dx8navActiveLinkBackground": "#E6F4FF",
+                "dx8fontColor": "rgba(0, 0, 0, 0.88)",
+                "menuFontColor": "BLACK",
+                "dx8navLinkBackground": "#FFFFFF",
+                "dx8buttonBackground": "#1677FF",
+                "dx8contentFontColor": "rgba(0, 0, 0, 0.88)",
+                "subfooter": "",
+                "mobileCacheEnabled": "",
+                "dx8footerBackground": "#F0F2F5",
+                "dx8headingFontColor": "rgba(0, 0, 0, 0.88)",
+                "dx8primaryColor": "#1677FF",
+                "darkMode": "",
+                "inbox": "current",
+                "dx8navActiveLinkColor": "#1677FF",
+                "fontColor": "WHITE"
+            }
+        },
+        "permission": {
+            "className": "org.joget.apps.userview.lib.LoggedInUserPermission",
+            "properties": {}
+        },
+        "userviewName": "Create Company UI"
+    }}
+}

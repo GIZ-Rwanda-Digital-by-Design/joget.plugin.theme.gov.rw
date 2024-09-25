@@ -1,0 +1,67 @@
+{
+    "elements": [
+        {
+            "className": "org.joget.apps.userview.lib.component.HeadingComponent",
+            "properties": {
+                "attr-data-events-listening": [],
+                "textContent": "<span>Overview<\/span>",
+                "id": "664CE897D6DF44653E05542D0AF1FB77",
+                "tagName": "h1",
+                "customId": ""
+            }
+        },
+        {
+            "elements": [
+                {
+                    "elements": [{
+                        "className": "org.joget.apps.userview.lib.component.ParagraphComponent",
+                        "properties": {
+                            "attr-data-events-listening": [],
+                            "textContent": "<p><span>Rwanda is a country situated in Central Africa, bordered to the North by Uganda, to the East by Tanzania, to the South by Burundi and to the West by the Democratic Republic of Congo. Rwanda&rsquo;s total area is Km2 26,338, with a population density estimated to be 445 people per km&sup2;.<\/span><\/p>",
+                            "id": "3A725E5DD6B14A935E8EBDA12AB78554",
+                            "customId": ""
+                        }
+                    }],
+                    "className": "org.joget.apps.userview.lib.component.ColumnComponent",
+                    "properties": {
+                        "style-mobile-max-width": "100%",
+                        "style-tablet-flex": "0 0 80%",
+                        "style-margin-bottom": "32px",
+                        "style-flex": "0 0 60%",
+                        "style-mobile-flex": "0 0 100%",
+                        "style-max-width": "60%",
+                        "style-tablet-max-width": "80%"
+                    }
+                },
+                {
+                    "className": "org.joget.apps.userview.lib.component.ColumnComponent",
+                    "properties": {}
+                }
+            ],
+            "className": "org.joget.apps.userview.lib.component.ColumnsComponent",
+            "properties": {
+                "attr-data-events-listening": [],
+                "gutter": "5px",
+                "col-0-style-margin-bottom": "32px",
+                "columns": [
+                    {
+                        "style-mobile-max-width": "100%",
+                        "style-max-width": "60%",
+                        "style-tablet-max-width": "80%"
+                    },
+                    {
+                        "style-mobile-max-width": "",
+                        "style-max-width": "",
+                        "style-tablet-max-width": ""
+                    }
+                ],
+                "css-mobile-stack-columns": "true",
+                "id": "67D35D4C552D4682F662AD29B05BABCA",
+                "customId": ""
+            }
+        },
+        {"className": "menu-component"}
+    ],
+    "className": "org.joget.apps.userview.model.UserviewPage",
+    "properties": {"id": "up-2DE6214BCC0041F7626D2CEFB0F10836"}
+}
